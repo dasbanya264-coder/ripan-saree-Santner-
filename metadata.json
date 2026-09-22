@@ -1,0 +1,8 @@
+{
+  "name": "R.D TEXTILE",
+  "description": "R.D TEXTILE (Ripan Saree Center) - Premium Handloom Sarees, Pure Silk & Bridal Collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

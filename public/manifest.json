@@ -1,0 +1,39 @@
+{
+  "id": "rd-textile-pwa",
+  "short_name": "R.D Textile",
+  "name": "R.D TEXTILE - Ripan Saree Center",
+  "description": "Authentic Handloom Sarees, Silk & Luxury Collections by R.D Textile (Ripan Saree Center)",
+  "icons": [
+    {
+      "src": "./pwa-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-maskable-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "#0d0e13",
+  "display": "standalone",
+  "theme_color": "#0d0e13",
+  "orientation": "portrait-primary"
+}
+
